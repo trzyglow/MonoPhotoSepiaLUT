@@ -6,3 +6,5 @@ ____
 SHA256 Hash (MonoPhotoSepiaLUT.cube):<br>
 <pre>96836E6E21AB9813EFAB126E93165B52613FC630AEE5456C49DC4BC27E979545</pre>
 ____
+
+### Reworked version with better chroma filtering available in the [MonoPhotoRedux](https://github.com/trzyglow/MonoPhotoRedux) Collection.
